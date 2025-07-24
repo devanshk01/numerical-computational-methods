@@ -12,7 +12,6 @@ Solve the system:
     [  0  -1   4  -1 ]       [ x3 ]       [ 0 ]
     [  0   0  -1   4 ]       [ x4 ]       [ 0 ]
 
-Author: [Your Name]
 """
 
 import numpy as np
