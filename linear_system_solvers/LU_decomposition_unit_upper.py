@@ -12,7 +12,6 @@ Solve the system of equations:
     [  1  -1   1  -1 ]       [ x3 ]       [  2 ]
     [  1   3  -3   2 ]       [ x4 ]       [ -1 ]
 
-Author: [Your Name]
 """
 
 import numpy as np
