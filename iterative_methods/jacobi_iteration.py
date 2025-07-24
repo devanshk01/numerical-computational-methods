@@ -12,7 +12,6 @@ Problem:
 Initial Guess: x^(0) = [0, 0, 0, 0]
 Number of Iterations: 10
 
-Author: [Your Name]
 """
 
 import numpy as np
